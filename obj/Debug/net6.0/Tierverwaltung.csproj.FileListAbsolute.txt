@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\Tierverwaltung\bin\Debug\net6.0\Tierverwaltung.exe
+C:\Users\danie\Documents\GitHub\Tierverwaltung\bin\Debug\net6.0\Tierverwaltung.deps.json
+C:\Users\danie\Documents\GitHub\Tierverwaltung\bin\Debug\net6.0\Tierverwaltung.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Tierverwaltung\bin\Debug\net6.0\Tierverwaltung.dll
+C:\Users\danie\Documents\GitHub\Tierverwaltung\bin\Debug\net6.0\Tierverwaltung.pdb
+C:\Users\danie\Documents\GitHub\Tierverwaltung\obj\Debug\net6.0\Tierverwaltung.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Tierverwaltung\obj\Debug\net6.0\Tierverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Tierverwaltung\obj\Debug\net6.0\Tierverwaltung.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Tierverwaltung\obj\Debug\net6.0\Tierverwaltung.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Tierverwaltung\obj\Debug\net6.0\Tierverwaltung.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Tierverwaltung\obj\Debug\net6.0\Tierverwaltung.dll
+C:\Users\danie\Documents\GitHub\Tierverwaltung\obj\Debug\net6.0\refint\Tierverwaltung.dll
+C:\Users\danie\Documents\GitHub\Tierverwaltung\obj\Debug\net6.0\Tierverwaltung.pdb
+C:\Users\danie\Documents\GitHub\Tierverwaltung\obj\Debug\net6.0\Tierverwaltung.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Tierverwaltung\obj\Debug\net6.0\ref\Tierverwaltung.dll
